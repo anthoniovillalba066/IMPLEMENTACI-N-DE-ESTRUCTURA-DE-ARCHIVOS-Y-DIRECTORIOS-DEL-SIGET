@@ -1,0 +1,2 @@
+# IMPLEMENTACI-N-DE-ESTRUCTURA-DE-ARCHIVOS-Y-DIRECTORIOS-DEL-SIGET
+Diseñar e implementar una estructura jerárquica de archivos y directorios que soporte las operaciones del Sistema Inteligente de Gestión de Tráfico (SIGET), utilizando comandos de consola en sistemas operativos Windows y Linux, demostrando competencias en la gestión de sistemas de archivos y su aplicación en infraestructuras críticas urbanas.
